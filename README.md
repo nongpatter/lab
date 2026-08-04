@@ -18,7 +18,7 @@ Markdown สำหรับ กิจกรรม สอน AI ครั้ง�
 
 ### 🔗 ลิงก์ทดลองเล่น AI ของพวกเรา
 
-https://teachablemachine.withgoogle.com/models/WOP5CHVw3/?fbclid=PAVERFWATe-2lwZG9mAmV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp5lmNbUQfNFabhljTipIttDdJn0yW9dY8wipqtnsB49NNxvf5R3n0fb2s803_aem_p9lA0slX7IoNU3Kfe6TmeQ
+[![Open in Teachable Machine](https://img.shields.io/badge/Open-Teachable%20Machine-blue?logo=google)](https://teachablemachine.withgoogle.com/models/WOP5CHVw3/)
 
 ธีมที่ 4: "เป่ายิ้งฉุบระดับสากล" (Rock-Paper-Scissors)
 
