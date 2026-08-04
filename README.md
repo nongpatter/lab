@@ -22,6 +22,7 @@ Markdown สำหรับ กิจกรรม สอน AI ครั้ง�
   <img src="https://img.shields.io/badge/🤖%20AI%20Classifier-Open%20Now-8A2BE2?style=for-the-badge">
 </a>
 
+
 ธีมที่ 4: "เป่ายิ้งฉุบระดับสากล" (Rock-Paper-Scissors)
 
 • Class ที่ต้องเทรน: ค้อน / กรรไกร / กระดาษ
