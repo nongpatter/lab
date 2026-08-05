@@ -31,7 +31,7 @@
 
 <br><br>
 
-### 🎥 วิดีโอสาธิตการใช้งาน
+### 🎥 วิดีโอ YouTube
 
 <a href="https://youtu.be/xaoniSnexrg?si=kF-lAzBHrKa0HQSj">
 
