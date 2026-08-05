@@ -17,26 +17,6 @@
 
 ---
 
-### 🎥 วิดีโอ YouTube
-
-<a href="https://youtu.be/xaoniSnexrg?si=kF-lAzBHrKa0HQSj">
-
-  <img src="https://img.youtube.com/vi/xaoniSnexrg/maxresdefault.jpg" alt="Demo Video" width="700">
-
-</a>
-
-<br><br>
-
-<a href="https://youtu.be/xaoniSnexrg?si=kF-lAzBHrKa0HQSj">
-
-  <img src="https://img.shields.io/badge/▶️%20Watch%20Video-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-
-</a>
-
-</div>
-
----
-
 ## 🎯 ธีมที่ 4 : **"เป่ายิ้งฉุบระดับสากล" ( Rock-Paper-Scissors )**
 
 ### 🧠 Class ที่ต้องเทรน
@@ -72,6 +52,15 @@
 5. ทดสอบความแม่นยำของโมเดล
 6. เผยแพร่โมเดลและจัดทำสื่อสาธิตการใช้งาน
 
+#### **โปรแกรมที่ใช้ในการทำงานครั้งนี้***
+
+- Teachable Machine
+- Chat GPT
+- Gemini
+- CapCut
+- GitHub
+
+
 ### **🔗 ลิงก์ทดลองเล่น Teachable Machine ของพวกเรา**
 
 <div align="center">
@@ -87,3 +76,23 @@
 #### **🎯 ผลลัพธ์**
 
 โมเดลสามารถจำแนกท่าค้อน กรรไกร และกระดาษจากภาพที่กล้องตรวจจับได้แบบเรียลไทม์ ช่วยให้ผู้ใช้งานสามารถทดลองเล่นเกมเป่ายิ้งฉุบร่วมกับ AI ได้อย่างสะดวก และเป็นตัวอย่างของการประยุกต์ใช้ Machine Learning สำหรับผู้เริ่มต้น
+
+### 🎥 วิดีโอ YouTube
+
+<a href="https://youtu.be/xaoniSnexrg?si=kF-lAzBHrKa0HQSj">
+
+  <img src="https://img.youtube.com/vi/xaoniSnexrg/maxresdefault.jpg" alt="Demo Video" width="700">
+
+</a>
+
+<br><br>
+
+<div align="center">
+
+<a href="https://youtu.be/xaoniSnexrg?si=kF-lAzBHrKa0HQSj">
+
+  <img src="https://img.shields.io/badge/▶️%20Watch%20Video-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+
+</a>
+
+</div>
