@@ -43,7 +43,7 @@
 
 <a href="https://youtu.be/xaoniSnexrg?si=kF-lAzBHrKa0HQSj">
 
-  <img src="https://img.shields.io/badge/▶️%20Watch%20Demo%20Video-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  <img src="https://img.shields.io/badge/▶️%20Watch%20Video-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 
 </a>
 
